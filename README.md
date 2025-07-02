@@ -13,3 +13,5 @@ Two papers are provided that detail this algorithm in detail:
 
 - **Title:** *Multiple System Estimation using Covariates having Missing Values and Measurement Error: Estimating the Size of the Māori Population in New Zealand*
   - **Citation:** Journal of the Royal Statistical Society Series A: Statistics in Society, Volume 185, Issue 1, January 2022, Pages 156–177, https://doi.org/10.1111/rssa.12731
+- **Title:** *An Overview of Population Size Estimation where Linking Registers Results in Incomplete Covariates, with an Application to Mode of Transport of Serious Road Casualties*
+  - **Citation:** Heijden, Peter G.M. & Smith, Paul & Cruyff, M.J.L.F & Bakker, Bart. (2017). An Overview of Population Size Estimation where Linking Registers Results in Incomplete Covariates, with an Application to Mode of Transport of Serious Road Casualties. Journal of Official Statistics. 34. 10.1515/jos-2018-0011.
